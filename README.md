@@ -1,4 +1,4 @@
-# tailwind-css-helpers
+# `tailwind-css-helpers`
 
 > ⚠️ This is a work in progress
 
